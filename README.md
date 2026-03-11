@@ -1,5 +1,8 @@
 # 🦅 CorbeauSplat - Streamline Your 3D Scene Creation
 
+This software is a fork of CorbeauSplat from Fred Dewitt avaiable here : https://github.com/freddewitt/CorbeauSplat
+MIT licence requires citing the original source in order to be able to fork.
+
 ## ⭐ Features
 - Easy conversion of raw videos and images.
 - Creates fully trained and viewable 3D scenes.
